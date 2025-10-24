@@ -3,7 +3,7 @@
     GitHub: 54645fdff44354/zee
 ]]
 
-local baseURL = "https://raw.githubusercontent.com/54645fdff44354/zee/Main.lua"
+local baseURL = "https://raw.githubusercontent.com/54645fdff44354/zee/refs/heads/main/Main.lua"
 
 print("🚀 XaXa Client Loader v2 Starting...")
 print("📡 Repository: 54645fdff44354/zee")
